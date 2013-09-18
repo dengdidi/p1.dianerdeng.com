@@ -45,7 +45,9 @@ Born and raised a Bostonian, Diane graduated with a BS from Boston University in
 <li>I believe I have an innovative way to make money off social media</li>
 <li>I have an amazing recipe for fried chicken!</li>
 
-<p><em>Specialties:</em>complete understanding of Adobe CS4, designing effective campaigns, able to work under pressure, able to adapt, knowledgeable in both MAC & PC platforms, branding & identity, guerrilla marketing, building brand awareness, pitching to new business, building reports, media planning, social media expert, PowerPoint expert designer</p>
+<p><em>Specialties:</em>complete understanding of Adobe CS4, designing effective campaigns, able to work under pressure, able to adapt, knowledgeable in both MAC & PC platforms, branding & identity, guerrilla marketing, building brand awareness, pitching to new business, building reports, media planning, social media expert, PowerPoint expert designer</p></br>
+
+<p>via <a href "www.linkedin.com/in/dianedeng/">LinkedIn</a></p>
 	
 </div>
 	<div id="footer">
