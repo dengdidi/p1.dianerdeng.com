@@ -26,13 +26,12 @@
 	</div>
 	<div id="content">
 		<h1 class="italic"><em>Diane Deng</em></h1>
-      	<h2>*CURRENT BIO via LinkedIn*</h2> </br>
 
-<p><em>Diane Deng, Advertising Acrobat</em></p>
-</br><p>
-Born and raised a Bostonian, Diane graduated with a BS from Boston University in Communications with a specialty in Advertising. Aerodynamic Diane spends her spare time flying in the air through her practice of aerial yoga while pursuing her Masters in Computer Science focusing in Digital Media at Harvard. Not only is she a flying machine but a marketing machine as well. She recently launched her first national cross-promotional marketing campaign. When Diane is not gliding on yoga swings, she swiftly manages Temperature@lert's new media accounts while building client and affiliate relationships. For this airborne gal, she likes her temperature like she likes her aerial yoga, a warm 78 degrees.</p></br>
+<p><b>Diane Deng, Advertising Acrobat</b></p>
+<p>
+Born and raised a Bostonian, Diane graduated with a BS from Boston University in Communications with a specialty in Advertising. Aerodynamic Diane spends her spare time flying in the air through her practice of aerial yoga while pursuing her Masters in Computer Science focusing in Digital Media at Harvard. Not only is she a flying machine but a marketing machine as well. She recently launched her first national cross-promotional marketing campaign. When Diane is not gliding on yoga swings, she swiftly manages Temperature@lert's new media accounts while building client and affiliate relationships. For this airborne gal, she likes her temperature like she likes her aerial yoga, a warm 78 degrees.</p>
 
-<p>************************************</p></br>
+<p>************************************</p>
 
 <p>I've been working as a freelance graphic designer for about three years, which is the exact amount of time I spent at Boston University's College of Communication. During those past 3 years, I have designed mainly for nightlife groups, ranging from venues needing some new loving in their clubs to promoters trying to make a quick buck off their 24/7 partying friends.</p>
 
