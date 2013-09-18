@@ -47,6 +47,8 @@ Born and raised a Bostonian, Diane graduated with a BS from Boston University in
 <p><em>Specialties:</em>complete understanding of Adobe CS4, designing effective campaigns, able to work under pressure, able to adapt, knowledgeable in both MAC & PC platforms, branding & identity, guerrilla marketing, building brand awareness, pitching to new business, building reports, media planning, social media expert, PowerPoint expert designer</p>
 
 <p>via <a href="www.linkedin.com/in/dianedeng/">LinkedIn</a></p>
+
+<p><em>Favorite Code Editor: Sublime</em></p>
 	
 </div>
 	<div id="footer">
