@@ -37,20 +37,20 @@ Born and raised a Bostonian, Diane graduated with a BS from Boston University in
 
 <p>So besides graphic design, I want to advertise. I can write pretty clever/witty copy. It's not all brain-farts in this mind. I also am extremely well-versed in the world of guerrilla/promotional marketing. Yes that's right, you're looking at a Nantucket Nectar Juice Guy and Tony the Tiger! I have worked as a promotional model for about four years and I can definitely help grow that part of the company.</p>
 
-<p>If these stories of my past experiences in my very random working fields have not amused you enough to ask me for an interview, here's a few more examples of why you should:</p>
+<p>If these stories of my past experiences in my very random working fields have not amused you enough to ask me for an interview, here's a few more examples of why you should:</p><ul>
 
 <li>I have been Buster the Bunny for a WGBH Zoom charity event</li>
 <li>I get paid to graffiti on girls (it's called Shriiimpin')</li>
 <li>I believe I have an innovative way to make money off social media</li>
-<li>I have an amazing recipe for fried chicken!</li>
+<li>I have an amazing recipe for fried chicken!</li></ul>
 
-<p><em>Specialties:</em>complete understanding of Adobe CS4, designing effective campaigns, able to work under pressure, able to adapt, knowledgeable in both MAC & PC platforms, branding & identity, guerrilla marketing, building brand awareness, pitching to new business, building reports, media planning, social media expert, PowerPoint expert designer</p></br>
+<p><em>Specialties:</em>complete understanding of Adobe CS4, designing effective campaigns, able to work under pressure, able to adapt, knowledgeable in both MAC & PC platforms, branding & identity, guerrilla marketing, building brand awareness, pitching to new business, building reports, media planning, social media expert, PowerPoint expert designer</p>
 
-<p>via <a href "www.linkedin.com/in/dianedeng/">LinkedIn</a></p>
+<p>via <a href="www.linkedin.com/in/dianedeng/">LinkedIn</a></p>
 	
 </div>
 	<div id="footer">
-		<p>&copy;2013 Diane Deng | HARVARD DWA15</a></p>
+		<p>&copy;2013 Diane Deng | HARVARD DWA15</p>
 	</div>
 </body>
 </html>
